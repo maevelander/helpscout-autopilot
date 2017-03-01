@@ -8,7 +8,7 @@ Current version: 1.0
 Install
 -------
 
-1. Download the [zip file](https://github.com/EnigmaWeb/helpscout-autopilot/master.zip) and unzip.
+1. Download the [zip file](https://github.com/EnigmaWeb/helpscout-autopilot/archive/master.zip) and unzip.
 1. Upload the helpscout-autopilot folder to your webspace
 1. Make sure you define your Help Scout secret key and Autopilot API key in helpscout-autopilot.php.
 1. Edit helpscout-autopilot.php for your own Autopilot custom fields as needed
